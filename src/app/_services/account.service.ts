@@ -11,6 +11,7 @@ baseUrl = 'https://localhost:5000/api/';
 
 private currentUserSource = new BehaviorSubject<User | null>(null);
 currentUser$ = this.currentUserSource.asObservable();
+  static currentUser$: any;
 
   constructor(private http: HttpClient) { }
 
