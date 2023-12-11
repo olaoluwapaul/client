@@ -1,3 +1,5 @@
+![Angular](https://github.com/olaoluwapaul/client/assets/102964080/bb401905-4ac5-4e19-84b1-80b528d583fe)
+
 # Client
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
