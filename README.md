@@ -1,4 +1,4 @@
-![Angular](https://github.com/olaoluwapaul/client/assets/102964080/bb401905-4ac5-4e19-84b1-80b528d583fe)
+![AngularJS-logo-wallpaper](https://github.com/olaoluwapaul/client/assets/102964080/b78df7a7-9527-448f-92ee-8f8574076324)
 
 # Client
 
